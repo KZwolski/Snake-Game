@@ -1,3 +1,13 @@
-body {
-    background-color: cadetblue;
+#map {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100%;
+    background-color: #222550;
+}
+
+.fruit {
+
+    background: #ff0000;
+    box-shadow: 0 0 10px #ff0000, 0 0 40px #ff0000, 0 0 80px #ff0000;
 }
